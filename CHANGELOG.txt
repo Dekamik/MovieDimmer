@@ -1,0 +1,57 @@
+-------------------------------------------------
+SleepMode 2.0 - 2013-04-22-15:30
+
+SleepMode 1.0 upgraded to SleepMode 2.0!
+
+Removed hardcoded shroudbuttons
+
+Added customizable shrouds
+Added load and save functions
+
+Redesigned the GUI
+
+
+-------------------------------------------------
+SleepMode 2.1 - 2013-04-22-15:56
+
+Added sorting to the dropdown list
+
+
+-------------------------------------------------
+SleepMode 2.2 - 2013-04-22-21:04
+
+Fixed default black screen not fitting every screen
+Fixed dialogs appearing behind main window
+
+
+-------------------------------------------------
+SleepMode 2.3 - 2013-04-24-18:26
+
+Added transparency to shrouds
+Added optional shroud sliders
+
+Redesigned GUI
+
+
+-------------------------------------------------
+MovieDimmers 1.0 (SleepMode 2.4) - 2013-04-25-11:09
+
+Optimized GUI for public release
+
+Added drag and drop features to sliders
+Added activate/deactivate checkboxes to sliders
+Added minimize button to sliders
+Added drag bar to sliders
+
+Renamed SleepMode to MovieDimmers
+Renamed shrouds to frames
+Renamed window to porthole
+
+-------------------------------------------------
+MovieDimmers 1.1 - TBD
+
+Released under a MIT-license
+
+Fixed bugs regarding the default black screen
+
+Added comments and documentation to source code
